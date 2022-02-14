@@ -8,10 +8,9 @@
   - [Funding and Outlook](#funding-and-outlook)
   - [The Graph's Core Work](#the-graphs-core-work)
   - [How Does The Graph Accomplish its Work?](#how-does-the-graph-accomplish-its-work)
-  - [Footnotes](#footnotes)
-  - [References](#references)
+
 ___
-  - [Footnotes](#footnotes)
+
   - [References](#references)
 ___
 
@@ -87,15 +86,11 @@ The Graph is driven by a combination of [directly funded development teams, gran
 These processes are facilitated by the incentive to earn GRT,  and are executed through [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp).
 
 
-___
-### Footnotes
+[^1]: Querying languages are the keys to the internet, because even if information is *available* to all, that doesn't mean it's *usable* by all. Search engines evolved from querying languages that were used in databases - think [boolean operators](https://libguides.mit.edu/c.php?g=175963&p=1158594) and [separate search fields](https://libguides.mit.edu/c.php?g=175963&p=1158752). These database search methods require some precision from the person searching, and in turn deliver precise results. But precision is hard. It takes mental effort. Most people don't want to waste time with it, and even those who feel it isn't a waste of time will spend more energy being precise, and have less energy for reading content.
 
-[^1] Querying languages are the keys to the internet, because even if information is *available* to all, that doesn't mean it's *usable* by all. Search engines evolved from querying languages that were used in databases - think [boolean operators](https://libguides.mit.edu/c.php?g=175963&p=1158594) and [separate search fields](https://libguides.mit.edu/c.php?g=175963&p=1158752). These database search methods require some precision from the person searching, and in turn deliver precise results. But precision is hard. It takes mental effort. Most people don't want to waste time with it, and even those who feel it isn't a waste of time will spend more energy being precise, and have less energy for reading content.
+[^2]: Are corporations inherently bad? I won't make a judgment. They are certainly preferable to older ways of incentivizing large-scale cooperation, like fear of the king or fear of a wrathful god. Corporations are simply one way for people to align their incentives to cooperate on big things, and since the [Dutch United East India Company](https://www.businessinsider.com/rise-and-fall-of-united-east-india-2013-11) really kicked things off, the corporate model has been extraordinarily effective and [responsible for our current era of globalization](https://www.weforum.org/agenda/2019/01/how-globalization-4-0-fits-into-the-history-of-globalization/).
 
-[^2]Are corporations inherently bad? I won't make a judgment. They are certainly preferable to older ways of incentivizing large-scale cooperation, like fear of the king or fear of a wrathful god. Corporations are simply one way for people to align their incentives to cooperate on big things, and since the [Dutch United East India Company](https://www.businessinsider.com/rise-and-fall-of-united-east-india-2013-11) really kicked things off, the corporate model has been extraordinarily effective and [responsible for our current era of globalization](https://www.weforum.org/agenda/2019/01/how-globalization-4-0-fits-into-the-history-of-globalization/).
-
-[^3] The Initial Coin Offering (ICO) is somewhat mystifying to those of us still in the mainstream system, but in mainstream terms, an ICO is like The Graph "going public." Instead of stock, though, it offers a coin or token. The Graph's coin is called GRT. In its ICO, The Graph sold about 400 million GRT tokens for $0.03, payable in Ethereum (ETH), netting $12 million ETH. In October 2020 ETH hovered around $400 per coin, meaning The Graph brought in about 30,000 ETH. But ETH has increased in value a lot since October 2020. As of February 13, 2022, ETH traded at $2,888 (off its almost $5,000 peak in late 2021) - which means that The Graph's initial $12 million in ETH is now worth over $86 million.
-
+[^3]: The Initial Coin Offering (ICO) is somewhat mystifying to those of us still in the mainstream system, but in mainstream terms, an ICO is like The Graph "going public." Instead of stock, though, it offers a coin or token. The Graph's coin is called GRT. In its ICO, The Graph sold about 400 million GRT tokens for $0.03, payable in Ethereum (ETH), netting $12 million ETH. In October 2020 ETH hovered around $400 per coin, meaning The Graph brought in about 30,000 ETH. But ETH has increased in value a lot since October 2020. As of February 13, 2022, ETH traded at $2,888 (off its almost $5,000 peak in late 2021) - which means that The Graph's initial $12 million in ETH is now worth over $86 million.
 Counting the ICO proceeds doesn't take into account the rise in value of GRT itself. In February 2022, GRT is trading around $0.40 - $0.50, a 150% increase from its ICO price of $0.03. That's also down from off its 2021 peak of $2.87 (a 9,300% increase). There are almost 5 billion GRT coins in circulation at the moment, with a max supply of 10 billion GRT coins. The Graph Foundation regulates those coins, but - like a government - it essentially prints that money. At half a doller for one GRT, it could sell off 5 billion GRT tomorrow and raise $2.5 billion (if enough people were interested, and that's pretty much a deal-breaking "if"). If The Graph had sold all remaining GRT at its $2.87 peak, that's $14,350,000,000 (14 billion, 350 million dollars!).
 
 ___
