@@ -1,7 +1,13 @@
-## Case Study
 # THE GRAPH
 
 ![Graph](graph_image.jpeg)
+
+*February 12, 2022 case study by Lauren Krohn*
+
+___
+## Table of Contents
+
+
   - [What is The Graph?](#what-is-the-graph)
   - [Why Does The Graph Matter for Web3?](#why-does-the-graph-matter-for-web3)
   - [Founders' Story](#founders-story)
@@ -9,7 +15,7 @@
   - [The Graph's Core Work](#the-graphs-core-work)
   - [How Does The Graph Accomplish its Work?](#how-does-the-graph-accomplish-its-work)
 
-___
+
 
   - [References](#references)
 ___
